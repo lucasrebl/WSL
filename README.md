@@ -2,7 +2,7 @@
 
 WSL vous permet d'éxécuter et d'utiliser un environnement Linux sous windows sans avoir la contrainte d'utiliser une machine virtuelle.
 
-# installetion de WSL
+# installation de WSL
 
 ## Configuration requise
 
