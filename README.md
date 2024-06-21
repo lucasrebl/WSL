@@ -32,7 +32,7 @@ Pour installer WSL, nous avons d'abord besoins d'activer quelques fonctionalité
 
 ## Migration vers WSL2
 
-  - Téléchargez et installez ce package
+  - Téléchargez et installez ce package : https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
   - Ouvrez une invite de commande Windows (cmd.exe)
   - Entrez la commande "wsl -l", cette commande vous permet de voir les distributions installées sur votre ordinateur
   - Entrez ensuite la commande "wsl --set-version Debian 2
